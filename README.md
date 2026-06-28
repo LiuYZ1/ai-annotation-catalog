@@ -17,14 +17,15 @@
 | 03 | [docker-unittests](https://github.com/LiuYZ1/docker-unittests) | [dgroup](https://github.com/dgroup/docker-unittests) | 35 | 2.2MB | CI镜像测试 | - | - | 待标注 |
 | 04 | [configuration-as-code-plugin](https://github.com/LiuYZ1/configuration-as-code-plugin) | [jenkinsci](https://github.com/jenkinsci/configuration-as-code-plugin) | 2789 | 6.4MB | Jenkins配置 | - | - | 待标注 |
 | 05 | [docker-java](https://github.com/LiuYZ1/docker-java) | [docker-java](https://github.com/docker-java/docker-java) | 3186 | 6.2MB | Docker API | - | - | 待标注 |
+| 06 | [indexer4j](https://github.com/LiuYZ1/indexer4j) | [haeungun](https://github.com/haeungun/indexer4j) | 57 | 1426行 | 全文索引/搜索 | - | - | 待标注 |
 
 ## 标注统计
 
 | 指标 | 数量 |
 |------|------|
-| 总项目数 | 5 |
+| 总项目数 | 6 |
 | 已完成 | 1 |
-| 待标注 | 4 |
+| 待标注 | 5 |
 | 涉及模型 | qwen3.7-max, claude-opus-4-8 |
 
 ## 快速筛选
