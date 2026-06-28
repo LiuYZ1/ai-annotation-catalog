@@ -10,14 +10,14 @@
 
 ## 仓库清单
 
-| 编号 | 仓库 | 来源 | star | 代码量 | 领域 | qwen 分支 | claude 分支 | 状态 |
+| 编号 | 仓库 | 来源 | star | 代码量 | 领域 | qwen 分支 | claude 分支 | deepseek 分支 | 状态 |
 |------|------|------|------|--------|------|-----------|-------------|------|
-| 01 | [alex-backend-1](https://github.com/LiuYZ1/alex-backend-1) | [Biexei](https://github.com/Biexei/alex-backend) | 82 | - | 接口测试 | [qwen-nested-dependency](https://github.com/LiuYZ1/alex-backend-1/tree/qwen-nested-dependency) | [claude-nested-dependency](https://github.com/LiuYZ1/alex-backend-1/tree/claude-nested-dependency) | 完成 |
-| 02 | [dockerfile-maven](https://github.com/LiuYZ1/dockerfile-maven) | [spotify](https://github.com/spotify/dockerfile-maven) | 2738 | 257KB | Docker构建 | - | - | 待标注 |
-| 03 | [docker-unittests](https://github.com/LiuYZ1/docker-unittests) | [dgroup](https://github.com/dgroup/docker-unittests) | 35 | 2.2MB | CI镜像测试 | - | - | 待标注 |
-| 04 | [configuration-as-code-plugin](https://github.com/LiuYZ1/configuration-as-code-plugin) | [jenkinsci](https://github.com/jenkinsci/configuration-as-code-plugin) | 2789 | 6.4MB | Jenkins配置 | - | - | 待标注 |
-| 05 | [docker-java](https://github.com/LiuYZ1/docker-java) | [docker-java](https://github.com/docker-java/docker-java) | 3186 | 6.2MB | Docker API | - | - | 待标注 |
-| 06 | [indexer4j](https://github.com/LiuYZ1/indexer4j) | [haeungun](https://github.com/haeungun/indexer4j) | 57 | 1426行 | 全文索引/搜索 | - | - | 待标注 |
+| 01 | [alex-backend-1](https://github.com/LiuYZ1/alex-backend-1) | [Biexei](https://github.com/Biexei/alex-backend) | 82 | - | 接口测试 | [qwen-nested-dependency](https://github.com/LiuYZ1/alex-backend-1/tree/qwen-nested-dependency) | [claude-nested-dependency](https://github.com/LiuYZ1/alex-backend-1/tree/claude-nested-dependency) | - | 完成 |
+| 02 | [dockerfile-maven](https://github.com/LiuYZ1/dockerfile-maven) | [spotify](https://github.com/spotify/dockerfile-maven) | 2738 | 257KB | Docker构建 | - | - | - | 待标注 |
+| 03 | [docker-unittests](https://github.com/LiuYZ1/docker-unittests) | [dgroup](https://github.com/dgroup/docker-unittests) | 35 | 2.2MB | CI镜像测试 | - | - | - | 待标注 |
+| 04 | [configuration-as-code-plugin](https://github.com/LiuYZ1/configuration-as-code-plugin) | [jenkinsci](https://github.com/jenkinsci/configuration-as-code-plugin) | 2789 | 6.4MB | Jenkins配置 | - | - | - | 待标注 |
+| 05 | [docker-java](https://github.com/LiuYZ1/docker-java) | [docker-java](https://github.com/docker-java/docker-java) | 3186 | 6.2MB | Docker API | - | - | - | 待标注 |
+| 06 | [indexer4j](https://github.com/LiuYZ1/indexer4j) | [haeungun](https://github.com/haeungun/indexer4j) | 57 | 1426行 | 全文索引/搜索 | - | - | [deepseek-code-analysis](https://github.com/LiuYZ1/indexer4j/tree/deepseek-code-analysis) | 标注中 |
 
 ## 标注统计
 
@@ -26,7 +26,7 @@
 | 总项目数 | 6 |
 | 已完成 | 1 |
 | 待标注 | 5 |
-| 涉及模型 | qwen3.7-max, claude-opus-4-8 |
+| 涉及模型 | qwen3.7-max, claude-opus-4-8, deepseek |
 
 ## 快速筛选
 
